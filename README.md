@@ -10,3 +10,6 @@ This repo contains code for scraping some of those lists, as well as the lists t
 ```
 python seminal/pitchfork.py --period=2000s --kind=albums --output=csv >> data/pitchfork/best-albums-2000s.tsv
 ```
+
+### TODO
+See `seminal/mappings.py` for more lists I'd like to add.
