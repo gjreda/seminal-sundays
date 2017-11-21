@@ -6,3 +6,7 @@ Seminal Sundays.
 
 This repo contains code for scraping some of those lists, as well as the lists themselves.
 
+### Example Usage
+```
+python seminal/pitchfork.py --period=2000s --kind=albums --output=csv >> data/pitchfork/best-albums-2000s.tsv
+```
